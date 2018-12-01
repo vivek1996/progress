@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "progress/index.html",
+  "index": "https://github.com/vivek1996/progress/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "progress/favicon.ico",
-        "progress/index.html",
-        "progress/main.0120c3cde1ff7d56509b.js",
-        "progress/polyfills.20ab2d163684112c2aba.js",
-        "progress/runtime.ec2944dd8b20ec099bf3.js",
-        "progress/styles.d002f76f8dc06dd255d8.css"
+        "https://github.com/vivek1996/progress/favicon.ico",
+        "https://github.com/vivek1996/progress/index.html",
+        "https://github.com/vivek1996/progress/main.0120c3cde1ff7d56509b.js",
+        "https://github.com/vivek1996/progress/polyfills.20ab2d163684112c2aba.js",
+        "https://github.com/vivek1996/progress/runtime.ec2944dd8b20ec099bf3.js",
+        "https://github.com/vivek1996/progress/styles.d002f76f8dc06dd255d8.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "progress/assets/icons/icon-128x128.png",
-        "progress/assets/icons/icon-144x144.png",
-        "progress/assets/icons/icon-152x152.png",
-        "progress/assets/icons/icon-192x192.png",
-        "progress/assets/icons/icon-384x384.png",
-        "progress/assets/icons/icon-512x512.png",
-        "progress/assets/icons/icon-72x72.png",
-        "progress/assets/icons/icon-96x96.png"
+        "https://github.com/vivek1996/progress/assets/icons/icon-128x128.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-144x144.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-152x152.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-192x192.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-384x384.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-512x512.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-72x72.png",
+        "https://github.com/vivek1996/progress/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "progress/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "progress/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "progress/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "progress/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "progress/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "progress/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "progress/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "progress/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "progress/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "progress/index.html": "ca9abe56b597b4b4f1f1aebf5b8148f55c6445de",
-    "progress/main.0120c3cde1ff7d56509b.js": "996a523ae0df27ad58135ece35ee469bfedf0248",
-    "progress/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "progress/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "progress/styles.d002f76f8dc06dd255d8.css": "35de2a4e6ef1b0739287f0950110b14f898955bf"
+    "https://github.com/vivek1996/progress/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/vivek1996/progress/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/vivek1996/progress/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/vivek1996/progress/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/vivek1996/progress/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/vivek1996/progress/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/vivek1996/progress/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/vivek1996/progress/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/vivek1996/progress/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://github.com/vivek1996/progress/index.html": "2eedfd828126169eae472181ba3ec8886b708b6e",
+    "https://github.com/vivek1996/progress/main.0120c3cde1ff7d56509b.js": "996a523ae0df27ad58135ece35ee469bfedf0248",
+    "https://github.com/vivek1996/progress/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://github.com/vivek1996/progress/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://github.com/vivek1996/progress/styles.d002f76f8dc06dd255d8.css": "35de2a4e6ef1b0739287f0950110b14f898955bf"
   },
   "navigationUrls": [
     {
