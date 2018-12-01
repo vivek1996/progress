@@ -8,6 +8,8 @@ import {
   MatCardModule,
   MatProgressBarModule
 } from '@angular/material';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 @NgModule({
   declarations: [AppComponent],
   imports: [
@@ -15,7 +17,8 @@ import {
     BrowserAnimationsModule,
     MatToolbarModule,
     MatCardModule,
-    MatProgressBarModule
+    MatProgressBarModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]
